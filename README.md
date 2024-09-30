@@ -2,7 +2,7 @@
 This was built with Jekyll, GitHub Pages and a very handy [template](https://github.com/alshedivat/al-folio). Please reach out if you notice any typos or something isn't working.
 
 ## Running locally
-Start by making sure Ruby is installed on your computer (for Mac, use `brew install ruby`), as well as Bundler (`gem install bundler`), and [ImageMagick](https://imagemagick.org/index.php) for dynamic image resizing. Next, clone this repository `git clone [URL]`, change directory into the repo, and serve with `bundle exec jekyll serve`. Building the website can take up to a few minutes.
+Start by making sure Ruby is installed on your computer (for Mac, use `brew install ruby`), as well as Bundler (`gem install bundler`), and [ImageMagick](https://imagemagick.org/index.php) for dynamic image resizing. Next, clone this repository `git clone https://github.com/diego-calderon-lab/diego-calderon-lab.github.io`, change directory into the repo, and serve with `bundle exec jekyll serve`. Building the website can take up to a few minutes.
 
 ## Contributing
 Having a basic familiarity with Git is a helpful skill to have when working with software. For this reason, we highly encourage lab members (and anyone else) to contribute to this website.
