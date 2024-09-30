@@ -12,7 +12,8 @@ lang: en
 icon: d_logo.png # D
 
 url: https://diego-calderon-lab.github.io #  i think this is OK
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+# the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl:
 last_updated: true # added to footer
 back_to_top: true
 
