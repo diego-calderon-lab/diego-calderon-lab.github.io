@@ -15,6 +15,10 @@ profiles:
     more_info: >
       <p>Email: diego.calderon[at]ucsf.edu</p>
   - align: right
+    image: Tetrad_Gao_Angela.jpg
+    content: lab_members/about_angela_gao.md
+    image_circular: false
+  - align: right
     image: kinaatkinyamaguchi.jpg
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
