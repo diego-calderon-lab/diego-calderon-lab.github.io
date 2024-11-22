@@ -27,6 +27,10 @@ profiles:
     content: lab_members/about_wan-yu_lai.md
     image_circular: false
   - align: right
+    image: Cute_dog.jpg
+    content: lab_members/about_cute_dog.md
+    image_circular: false    
+  - align: right
     image: Recruit.jpg
     content: lab_members/about_recruit.md
     image_circular: false
