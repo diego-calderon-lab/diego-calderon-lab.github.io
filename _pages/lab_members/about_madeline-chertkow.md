@@ -1,0 +1,4 @@
+# Madeline Chertkow
+## Rotation student (BioE) Spring 2025
+
+I am a Ph.D. student in the Bioengineering joint program between UC Berkeley and UCSF. I received my Bachelor of Science degree in Biomolecular Engineering and Bioinformatics from UCSC. During my time at UCSC, I conducted research in Dr. Daniel Kim's lab to advance liquid biopsy technology via the detection of cfRNA found in extracellular vesicles released by solid tumors expressing a mutant form of KRAS. In 2023, I was a UCSF SRTP intern where I investigated the molecular effects autophagy inhibitors have on the metastatic characteristics of triple negative breast cancer in Dr. Jayanta Debnath's lab. As a first-generation student, I am open as a resource to other first-gen students to aid them in successfully navigating the STEM field. When I'm not talking about science, I enjoy trying new food, reading, cooking, and exploring the city.
