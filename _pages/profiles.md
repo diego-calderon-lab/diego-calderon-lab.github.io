@@ -15,12 +15,16 @@ profiles:
     more_info: >
       <p>Email: diego.calderon[at]ucsf.edu</p>
   - align: right
-    image: madelinechertkow.jpg
-    content: lab_members/about_madeline-chertkow.md
+    image: chetanaditya.jpg
+    content: lab_members/about_chetan-aditya.md
     image_circular: false
   - align: right
     image: kinaatkinyamaguchi.jpg
     content: lab_members/about_kina-atkin-yamaguchi.md
+    image_circular: false
+  - align: right
+    image: madelinechertkow.jpg
+    content: lab_members/about_madeline-chertkow.md
     image_circular: false
   - align: right
     image: Recruit.jpg
