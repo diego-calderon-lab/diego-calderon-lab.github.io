@@ -23,6 +23,12 @@ profiles:
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
   - align: right
+    image: isobelbeasley.jpg
+    content: lab_members/about_isobel-beasley.md
+    image_circular: false
+    more_info: >
+      <p><a href="https://www.isobelbeasley.com" target="_blank">isobelbeasley.com</a></p>
+  - align: right
     image: madelinechertkow.jpg
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
