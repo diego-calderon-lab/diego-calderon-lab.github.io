@@ -33,6 +33,10 @@ profiles:
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
   - align: right
+    image: liasorrell.jpg
+    content: lab_members/about_lia-sorrell.md
+    image_circular: false
+  - align: right
     image: Recruit.jpg
     content: lab_members/about_recruit.md
     image_circular: false
