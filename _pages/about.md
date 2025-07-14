@@ -5,7 +5,6 @@ permalink: /
 
 profile:
   align: center
-  # image: olive_prof_pic.jpg
   image: sf_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >

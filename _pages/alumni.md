@@ -8,6 +8,10 @@ description: alumni lab members
 
 profiles:
   - align: right
+    image: isobelbeasley.jpg
+    content: lab_members/about_isobel-beasley.md
+    image_circular: false
+  - align: right
     image: wanyulai.jpg
     content: lab_members/about_wan-yu_lai.md
     image_circular: false
