@@ -31,6 +31,10 @@ profiles:
     content: lab_members/about_benjamin-lu.md
     image_circular: false
   - align: right
+    image: peterlu.jpg
+    content: lab_members/about_peter-lu.md
+    image_circular: false
+  - align: right
     image: liasorrell.jpg
     content: lab_members/about_lia-sorrell.md
     image_circular: false
