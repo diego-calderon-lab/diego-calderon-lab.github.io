@@ -27,6 +27,10 @@ profiles:
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
   - align: right
+    image: noahgordon.jpg
+    content: lab_members/about_noah-gordon.md
+    image_circular: false
+  - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
     image_circular: false
