@@ -27,6 +27,12 @@ profiles:
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
   - align: right
+    image: carlosgomez.jpg
+    content: lab_members/about_carlos-gomez.md
+    image_circular: false
+    more_info: >
+      <p><a href="http://linkedin.com/in/j-carlosgomez">LinkedIn</a><p>
+  - align: right
     image: noahgordon.jpg
     content: lab_members/about_noah-gordon.md
     image_circular: false

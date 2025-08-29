@@ -1,0 +1,4 @@
+# Carlos Gomez
+## Rotation student (BMI) Fall 2025
+
+Carlos is a PhD student in the Biological and Medical Informatics program at UCSF. He received his bachelor's degree in microbiology from San Francisco State University and completed a post-baccalaureate in the PROPEL program at UCSF, during which he also worked as a Junior Specialist in Dr. Susan Lynch’s lab applying computational methods to study the human microbiome. Carlos is broadly interested in how machine learning, AI, and data-driven approaches can help answer questions in human health. Outside of research, he enjoys cooking, working out, and exploring new places.
