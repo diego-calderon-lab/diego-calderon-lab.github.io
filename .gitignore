@@ -7,6 +7,7 @@ env
 
 _site
 _includes/.DS_Store
+_pages/.DS_Store
 .bundle
 .sass-cache
 .jekyll-cache

@@ -23,6 +23,12 @@ profiles:
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
   - align: right
+    image: julianebombosch.jpeg
+    content: lab_members/about_juliane-bombosch.md
+    image_circular: false
+    more_info: >
+      <p><a href="https://www.linkedin.com/in/juliane-donahue-bombosch-2020/">LinkedIn</a><p>
+  - align: right
     image: madelinechertkow.jpg
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
