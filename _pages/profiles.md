@@ -51,6 +51,10 @@ profiles:
     content: lab_members/about_rashad-reid.md
     image_circular: false
   - align: right
+    image: fantasywang.jpg
+    content: lab_members/about_fantasy-wang.md
+    image_circular: false
+  - align: right
     image: Recruit.jpg
     content: lab_members/about_recruit.md
     image_circular: false
