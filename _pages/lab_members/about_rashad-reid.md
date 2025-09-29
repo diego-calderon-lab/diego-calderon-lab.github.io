@@ -1,4 +1,4 @@
 # Rashad Reid Jr.
-## Rotation student (BMI) Summer 2025
+## PhD student (BMI)
 
 I am a Ph.D. student in the Biological and Medical Informatics program at UCSF. I received my Bachelor of Science degree in Biology with a minor in Chemistry from Temple University. As an undergraduate, I conducted research in Dr. Vincent Voelz’s lab in the Department of Chemistry, where I worked on several projects revolving around the main protease of SARS-CoV-2. I also participated in a summer research experience at UC Santa Cruz in Dr. Russell Corbett-Detig’s lab, where we used phylogenetic trees to identify mutations associated with the extinction of viral lineages. When I’m not doing science, I enjoy walking, hiking, and playing video games.

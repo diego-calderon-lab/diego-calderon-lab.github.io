@@ -13,7 +13,7 @@ profiles:
     content: lab_members/about_diego.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Email: diego.calderon[at]ucsf.edu</p>
+      <p>diego.calderon[at]ucsf.edu</p>
   - align: right
     image: chetanaditya.jpg
     content: lab_members/about_chetan-aditya.md
