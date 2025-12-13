@@ -12,7 +12,7 @@ toc:
 
 ## Instructors
 
-* Diego Calderon (Lead Instructor)
+* [Diego Calderon](https://profiles.ucsf.edu/diego.calderon) (Lead Instructor)
 * [Dara Torgerson](https://profiles.ucsf.edu/dara.torgerson)
 * [Nadav Ahituv](https://profiles.ucsf.edu/nadav.ahituv)
 
