@@ -4,6 +4,7 @@ _site
 bin
 env
 .DS_Store
+*.DS_Store
 
 _site
 _includes/.DS_Store
