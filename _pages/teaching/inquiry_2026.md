@@ -60,7 +60,7 @@ By the end of this course, students will be able to:
 
 ---
 
-### Day 2: Connecting Genetics to Mechanisms: Understanding Gene Regulation
+### Day 2: Connecting Genetics to Mechanisms: Understanding Gene Regulation - Part 1
 **Date/Time:** Wednesday, January 7, 2026 3:00 PM - 5:00 PM
 
 **Location:** Mission Hall 2106
@@ -83,10 +83,10 @@ By the end of this course, students will be able to:
  
 **Slides:** [Coming soon]
 
-<!-- ---
+---
 
-### Day 3: Understanding Gene Regulation - Part 2
-**Date:** Thursday, January 8, 2026
+### Day 3: Connecting Genetics to Mechanisms: Understanding Gene Regulation - Part 2
+**Date:** Thursday, January 8, 2026 3:00 PM - 5:00 PM
 
 **Location:** Mission Hall 2106
 
@@ -98,14 +98,14 @@ By the end of this course, students will be able to:
 **Reading:**
 - 
 
-**Slides:** [Coming soon] -->
+**Slides:** [Coming soon]
 
 ---
 
-### Day 3: Modern Complex Traits Genetics
-**Date/Time:** Thursday, January 8, 2026 3:00 PM - 5:00 PM
+### Day 4: Modern Complex Traits Genetics
+**Date/Time:** Friday, January 9, 2026 3:00 PM - 5:00 PM
 
-**Location:** Mission Hall 2106
+**Location:** TBD
 
 **Topics:**
 - The case of missing heritability: why we can't explain all genetic contributions to traits
@@ -122,7 +122,7 @@ By the end of this course, students will be able to:
 
 ---
 
-### Day 4: Great Power and Great Responsibility - Ethics and Genetics
+### Day 5: Great Power and Great Responsibility - Ethics and Genetics
 **Date/Time:** Tuesday, January 13, 2026 1:30 PM - 3:30 PM
 
 **Location:** Mission Hall 1407
@@ -142,7 +142,7 @@ By the end of this course, students will be able to:
 
 ---
 
-### Day 5: Genetics and Human Health
+### Day 6: Genetics and Human Health
 **Date/Time:** Thursday, January 15, 2026 3:00 PM - 5:00 PM
 
 **Location:** Mission Hall 2109
