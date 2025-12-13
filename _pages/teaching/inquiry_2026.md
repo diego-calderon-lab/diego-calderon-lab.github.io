@@ -96,7 +96,7 @@ By the end of this course, students will be able to:
 - From association to function: using experimental approaches to understand disease variants
 
 **Reading:**
-- 
+- Moving over articles from part 1 since it's overloaded. 
 
 **Slides:** [Coming soon]
 
