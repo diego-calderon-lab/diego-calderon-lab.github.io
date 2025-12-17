@@ -105,7 +105,7 @@ By the end of this course, students will be able to:
 ### Day 4: Modern Complex Traits Genetics
 **Date/Time:** Friday, January 9, 2026 3:00 PM - 5:00 PM
 
-**Location:** TBD
+**Location:** Mission Hall 1407
 
 **Topics:**
 - The case of missing heritability: why we can't explain all genetic contributions to traits
