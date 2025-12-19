@@ -34,6 +34,10 @@ profiles:
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
     image_circular: false
+  # - align: right
+  #   image: juliasaltz.jpg
+  #   content: lab_members/about_julia-saltz.md
+  #   image_circular: false
   - align: right
     image: rashadreid.jpg
     content: lab_members/about_rashad-reid.md

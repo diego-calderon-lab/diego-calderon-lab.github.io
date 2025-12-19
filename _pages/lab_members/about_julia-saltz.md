@@ -1,0 +1,4 @@
+# Julia Saltz
+## Rotation student (BioE) Winter 2025
+
+I am a PhD student in the UC Berkeley - UCSF Graduate Program in Bioengineering. I received my BS in Biomolecular Engineering and Bioinformatics from UC Santa Cruz, where I worked with Dr. Angela Brooks developing techniques to map chromatin accessibility using long-read sequencing. After graduation, I worked in Dr. Jon Park's lab at Stanford studying genetic markers for breast cancer metastasis into bone tissue. I am broadly interested in using computational approaches to understand gene regulation. Outside of the lab, I enjoy hiking, baking, and spending time with my cat.

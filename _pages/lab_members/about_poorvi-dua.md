@@ -1,0 +1,4 @@
+# Poorvi Dua
+## Rotation student (PSPG) Winter 2025
+
+My name is Poorvi Dua and I am a PhD student in the Pharmaceutical Sciences and Pharmacogenomics program at UCSF. I received my BA in Molecular and Cellular Biology/Neurobiology from UC Berkeley, where I became interested in understanding the nervous system and developing therapeutics for neurological conditions. After I graduated, I joined Dr. Bruce Conklin's lab at the Gladstone Institutes, where I spent several years developing CRISPR-based gene-editing therapeutic strategies for neurodegenerative disease. I am fascinated by the idea of developing new therapeutics for complex and rare diseases and am excited to dive deep into this topic during my PhD. In my free time, you can find me painting, cooking, out enjoying nature, at a pilates class or hanging out with my cats!
