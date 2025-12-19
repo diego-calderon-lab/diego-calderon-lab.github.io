@@ -14,10 +14,6 @@ profiles:
     more_info: >
       <p><a href="https://www.linkedin.com/in/juliane-donahue-bombosch-2020/">LinkedIn</a><p>
   - align: right
-    image: madelinechertkow.jpg
-    content: lab_members/about_madeline-chertkow.md
-    image_circular: false
-  - align: right
     image: carlosgomez.jpg
     content: lab_members/about_carlos-gomez.md
     image_circular: false

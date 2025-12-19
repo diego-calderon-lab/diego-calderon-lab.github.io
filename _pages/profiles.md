@@ -23,6 +23,14 @@ profiles:
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
   - align: right
+    image: madelinechertkow.jpg
+    content: lab_members/about_madeline-chertkow.md
+    image_circular: false
+  # - align: right
+  #   image: poorvidua.jpg
+  #   content: lab_members/about_poorvi-dua.md
+  #   image_circular: false
+  - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
     image_circular: false

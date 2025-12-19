@@ -129,14 +129,14 @@ By the end of this course, students will be able to:
 
 **Guest Lecturer:** Dara Torgersen
 
-**Topics:**
+**Example Topics:**
 - Representation and inclusion in global genome collections
 - Ethical considerations surrounding the use of genetics in forensics
 - Reproductive technologies and genetic information
 - Personalized medicine: benefits and concerns
 
 **Reading:**
-- TBD article Dara might discuss. 
+- TBD 
 
 **Slides:** [Coming soon]
 
