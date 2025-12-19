@@ -145,7 +145,7 @@ By the end of this course, students will be able to:
 ### Day 6: Genetics and Human Health
 **Date/Time:** Thursday, January 15, 2026 3:00 PM - 5:00 PM
 
-**Location:** Mission Hall 2109
+**Location:** Mission Hall 1407
 
 **Guest Lecturer (3:00 PM - 4:00 PM):** Nadav Ahituv
 - Discussion of disease variants and therapeutic strategies
