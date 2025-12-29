@@ -77,9 +77,6 @@ By the end of this course, students will be able to:
 - ENCODE project writes eulogy for junk DNA. [PMID: 22955811](https://pubmed.ncbi.nlm.nih.gov/22955811/)
 - Systematic Localization of Common Disease-Associated Variation in Regulatory DNA. [PMID: 22955828](https://pubmed.ncbi.nlm.nih.gov/22955828/)
 - Understanding mechanisms underlying human gene expression variation with RNA sequencing. [PMID: 20220758](https://pubmed.ncbi.nlm.nih.gov/20220758/)
-- Genome-wide quantitative enhancer activity maps identified by STARR-seq. [PMID: 23328393](https://pubmed.ncbi.nlm.nih.gov/23328393/)
-- Modulating gene regulation to treat genetic disorders. [PMID: 33020616](https://pubmed.ncbi.nlm.nih.gov/33020616/)
-- CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency. [PMID: 30545847](https://pubmed.ncbi.nlm.nih.gov/30545847/)
  
 **Slides:** [Coming soon]
 
@@ -96,7 +93,9 @@ By the end of this course, students will be able to:
 - From association to function: using experimental approaches to understand disease variants
 
 **Reading:**
-- Moving over articles from part 1 since it's overloaded. 
+- Genome-wide quantitative enhancer activity maps identified by STARR-seq. [PMID: 23328393](https://pubmed.ncbi.nlm.nih.gov/23328393/)
+- Modulating gene regulation to treat genetic disorders. [PMID: 33020616](https://pubmed.ncbi.nlm.nih.gov/33020616/)
+- CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency. [PMID: 30545847](https://pubmed.ncbi.nlm.nih.gov/30545847/)
 
 **Slides:** [Coming soon]
 
@@ -117,6 +116,7 @@ By the end of this course, students will be able to:
 - Finding the missing heritability of complex diseases. [PMID: 19812666](https://pubmed.ncbi.nlm.nih.gov/19812666/)
 - An Expanded View of Complex Traits: From Polygenic to Omnigenic. [PMID: 28622505](https://pubmed.ncbi.nlm.nih.gov/28622505/)
 - Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations. [PMID: 30104762](https://pubmed.ncbi.nlm.nih.gov/30104762/)
+- Estimation and mapping of the missing heritability of human phenotypes. [PMID: 41225014](https://pubmed.ncbi.nlm.nih.gov/41225014/)
 
 **Slides:** [Coming soon]
 

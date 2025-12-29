@@ -23,7 +23,7 @@ social: false # includes social icons at the bottom of the page
 
 <span style="font-size:larger;">**We are**</span> a part of the [Department of Bioengineering and Therapeutic Sciences](https://bts.ucsf.edu) at the University of California, San Francisco.
 <!-- TBD: the [Quantitative Biosciences Institute](https://qbi.ucsf.edu) -->
-We are also affiliated with the [Institute for Human Genetics](https://humangenetics.ucsf.edu/content/diego-calderon-phd), the [Helen Diller Family Comprehensive Cancer Center](https://cancer.ucsf.edu/people/calderon.diego), the [Bakar Computational Health Sciences Institute](https://bakarinstitute.ucsf.edu), and the [Biohub – San Francisco](https://www.czbiohub.org/sf/).
+We are also affiliated with the [Institute for Human Genetics](https://humangenetics.ucsf.edu/content/diego-calderon-phd), the [Helen Diller Family Comprehensive Cancer Center](https://cancer.ucsf.edu/people/calderon.diego), the [Bakar Computational Health Sciences Institute](https://bakarinstitute.ucsf.edu/people-at-bakar/diego), and the [Biohub – San Francisco](https://www.czbiohub.org/sf/).
 Visit us in Rock Hall at the Mission Bay Campus of UCSF.
 
 <span style="font-size:larger;"><span style="font-size:larger;">**Join us!**</span></span> The lab is looking to recruit talented individuals interested in joining our science community. Information on applying can be found at the bottom of the [people page](/people#join-our-team) or contact Diego if you have more questions.

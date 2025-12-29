@@ -26,18 +26,18 @@ profiles:
     image: madelinechertkow.jpg
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
-  # - align: right
-  #   image: poorvidua.jpg
-  #   content: lab_members/about_poorvi-dua.md
-  #   image_circular: false
+  - align: right
+    image: poorvidua.jpg
+    content: lab_members/about_poorvi-dua.md
+    image_circular: false
   - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
     image_circular: false
-  # - align: right
-  #   image: juliasaltz.jpg
-  #   content: lab_members/about_julia-saltz.md
-  #   image_circular: false
+  - align: right
+    image: juliasaltz.jpg
+    content: lab_members/about_julia-saltz.md
+    image_circular: false
   - align: right
     image: rashadreid.jpg
     content: lab_members/about_rashad-reid.md
