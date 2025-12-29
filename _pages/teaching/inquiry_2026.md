@@ -162,7 +162,9 @@ By the end of this course, students will be able to:
 
 ## Additional Resources
 
-- GTEx Portal: https://www.gtexportal.org/
+- Open Targets: https://platform.opentargets.org
+- GWAS Catalog: https://www.ebi.ac.uk/gwas/
 - UCSC Genome Browser: https://genome.ucsc.edu/
 - Washington University Genome Browser: https://genome.wustl.edu/
-- GWASCatalog: https://www.ebi.ac.uk/gwas/
+- ENCODE Portal: https://www.encodeproject.org
+- GTEx Portal: https://www.gtexportal.org/
