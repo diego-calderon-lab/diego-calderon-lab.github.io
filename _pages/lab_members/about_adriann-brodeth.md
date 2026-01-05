@@ -1,0 +1,4 @@
+# Adriann Brodeth
+## Rotation student (BioE) Winter 2025
+
+I am a first-year Ph.D. student in the UC Berkeley–UCSF Joint Bioengineering Program. I transferred from Santa Monica College and earned my B.S. in Bioengineering from UCLA, where I worked in Dr. Mireille Kamariza’s lab, focusing on developing rapid, point-of-care diagnostic tools for Mycobacterium tuberculosis (Mtb). My current research interests focus on designing novel molecular tools through synthetic biology to better understand cellular mechanisms and translate those insights into improved therapeutic strategies. In my free time, I enjoy spending time with friends, going to sports events, and eating!

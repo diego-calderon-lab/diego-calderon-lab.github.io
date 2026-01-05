@@ -15,6 +15,10 @@ profiles:
     more_info: >
       <p>diego.calderon[at]ucsf.edu</p>
   - align: right
+    image: adriannbrodeth.jpg
+    content: lab_members/about_adriann-brodeth.md
+    image_circular: false
+  - align: right
     image: chetanaditya.jpg
     content: lab_members/about_chetan-aditya.md
     image_circular: false
