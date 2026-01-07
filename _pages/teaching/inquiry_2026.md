@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "IDS 123A: 2025 Inquiry Immersion"
+title: "IDS 123A: 2026 Inquiry Immersion"
 permalink: /teaching/inquiry_2026/
 description: Mini-course on using genetics to understand human biology and disease
 nav: false
@@ -56,7 +56,7 @@ By the end of this course, students will be able to:
 - Refining the impact of genetic evidence on clinical success. [PMID: 38632401](https://pubmed.ncbi.nlm.nih.gov/38632401/)
 
 
-**Slides:** [Coming soon]
+**Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
 ---
 
@@ -65,12 +65,12 @@ By the end of this course, students will be able to:
 
 **Location:** Mission Hall 2106
 
+**Instructor:** Diego Calderon
+
 **Topics:**
 - Surprise, most GWAS are non-coding.
 - ENCODE Project: mapping regulatory elements across the genome
 - Expression Quantitative Trait Loci (eQTLs): linking genetic variants to gene expression
-- Massively Parallel Reporter Assays (MPRA): testing the functional effects of DNA sequences
-- CRISPR-based approaches: editing and interrogating the genome towards treating disorders
 
 **Reading:**
 
@@ -86,6 +86,8 @@ By the end of this course, students will be able to:
 **Date:** Thursday, January 8, 2026 3:00 PM - 5:00 PM
 
 **Location:** Mission Hall 2106
+
+**Instructor:** Diego Calderon
 
 **Topics:**
 - Massively Parallel Reporter Assays (MPRA): testing the functional effects of DNA sequences
@@ -105,6 +107,8 @@ By the end of this course, students will be able to:
 **Date/Time:** Friday, January 9, 2026 3:00 PM - 5:00 PM
 
 **Location:** Mission Hall 1407
+
+**Instructor:** Diego Calderon
 
 **Topics:**
 - The case of missing heritability: why we can't explain all genetic contributions to traits
@@ -154,7 +158,7 @@ By the end of this course, students will be able to:
 - Synthesis and key takeaways from the course
 
 **Reading:**
-- TBD article Nadav might discuss. 
+- TBD
 
 **Slides:** [Coming soon]
 
