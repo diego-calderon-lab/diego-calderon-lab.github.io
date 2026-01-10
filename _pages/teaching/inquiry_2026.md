@@ -78,7 +78,7 @@ By the end of this course, students will be able to:
 - Systematic Localization of Common Disease-Associated Variation in Regulatory DNA. [PMID: 22955828](https://pubmed.ncbi.nlm.nih.gov/22955828/)
 - Understanding mechanisms underlying human gene expression variation with RNA sequencing. [PMID: 20220758](https://pubmed.ncbi.nlm.nih.gov/20220758/)
  
-**Slides:** [Coming soon]
+**Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
 ---
 
@@ -99,7 +99,7 @@ By the end of this course, students will be able to:
 - Modulating gene regulation to treat genetic disorders. [PMID: 33020616](https://pubmed.ncbi.nlm.nih.gov/33020616/)
 - CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency. [PMID: 30545847](https://pubmed.ncbi.nlm.nih.gov/30545847/)
 
-**Slides:** [Coming soon]
+**Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
 ---
 
@@ -122,7 +122,7 @@ By the end of this course, students will be able to:
 - Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations. [PMID: 30104762](https://pubmed.ncbi.nlm.nih.gov/30104762/)
 - Estimation and mapping of the missing heritability of human phenotypes. [PMID: 41225014](https://pubmed.ncbi.nlm.nih.gov/41225014/)
 
-**Slides:** [Coming soon]
+**Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
 ---
 
