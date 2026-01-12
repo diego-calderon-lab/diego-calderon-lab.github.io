@@ -50,10 +50,10 @@ By the end of this course, students will be able to:
 - GTEx Portal: exploring gene expression across tissues
 
 **Reading:**
-- Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. [PMID: 17554300](https://pubmed.ncbi.nlm.nih.gov/17554300/)
-- Genetic dissection of complex traits. [PMID: 8091226](https://pubmed.ncbi.nlm.nih.gov/8091226/)
-- How to interpret a genome-wide association study. [PMID: 18349094](https://pubmed.ncbi.nlm.nih.gov/18349094/)
-- Refining the impact of genetic evidence on clinical success. [PMID: 38632401](https://pubmed.ncbi.nlm.nih.gov/38632401/)
+- Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. [PMID: 17554300](https://pubmed.ncbi.nlm.nih.gov/17554300/).
+- Genetic dissection of complex traits. [PMID: 8091226](https://pubmed.ncbi.nlm.nih.gov/8091226/).
+- How to interpret a genome-wide association study. [PMID: 18349094](https://pubmed.ncbi.nlm.nih.gov/18349094/).
+- Refining the impact of genetic evidence on clinical success. [PMID: 38632401](https://pubmed.ncbi.nlm.nih.gov/38632401/).
 
 
 **Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
@@ -74,9 +74,9 @@ By the end of this course, students will be able to:
 
 **Reading:**
 
-- ENCODE project writes eulogy for junk DNA. [PMID: 22955811](https://pubmed.ncbi.nlm.nih.gov/22955811/)
-- Systematic Localization of Common Disease-Associated Variation in Regulatory DNA. [PMID: 22955828](https://pubmed.ncbi.nlm.nih.gov/22955828/)
-- Understanding mechanisms underlying human gene expression variation with RNA sequencing. [PMID: 20220758](https://pubmed.ncbi.nlm.nih.gov/20220758/)
+- ENCODE project writes eulogy for junk DNA. [PMID: 22955811](https://pubmed.ncbi.nlm.nih.gov/22955811/).
+- Systematic Localization of Common Disease-Associated Variation in Regulatory DNA. [PMID: 22955828](https://pubmed.ncbi.nlm.nih.gov/22955828/).
+- Understanding mechanisms underlying human gene expression variation with RNA sequencing. [PMID: 20220758](https://pubmed.ncbi.nlm.nih.gov/20220758/).
  
 **Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
@@ -95,9 +95,9 @@ By the end of this course, students will be able to:
 - From association to function: using experimental approaches to understand disease variants
 
 **Reading:**
-- Genome-wide quantitative enhancer activity maps identified by STARR-seq. [PMID: 23328393](https://pubmed.ncbi.nlm.nih.gov/23328393/)
-- Modulating gene regulation to treat genetic disorders. [PMID: 33020616](https://pubmed.ncbi.nlm.nih.gov/33020616/)
-- CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency. [PMID: 30545847](https://pubmed.ncbi.nlm.nih.gov/30545847/)
+- Genome-wide quantitative enhancer activity maps identified by STARR-seq. [PMID: 23328393](https://pubmed.ncbi.nlm.nih.gov/23328393/).
+- Modulating gene regulation to treat genetic disorders. [PMID: 33020616](https://pubmed.ncbi.nlm.nih.gov/33020616/).
+- CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency. [PMID: 30545847](https://pubmed.ncbi.nlm.nih.gov/30545847/).
 
 **Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
@@ -117,10 +117,10 @@ By the end of this course, students will be able to:
 
 **Reading:**
 - The case of the missing heritability. [PMID: 18987709](https://pubmed.ncbi.nlm.nih.gov/18987709/).
-- Finding the missing heritability of complex diseases. [PMID: 19812666](https://pubmed.ncbi.nlm.nih.gov/19812666/)
-- An Expanded View of Complex Traits: From Polygenic to Omnigenic. [PMID: 28622505](https://pubmed.ncbi.nlm.nih.gov/28622505/)
-- Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations. [PMID: 30104762](https://pubmed.ncbi.nlm.nih.gov/30104762/)
-- Estimation and mapping of the missing heritability of human phenotypes. [PMID: 41225014](https://pubmed.ncbi.nlm.nih.gov/41225014/)
+- Finding the missing heritability of complex diseases. [PMID: 19812666](https://pubmed.ncbi.nlm.nih.gov/19812666/).
+- An Expanded View of Complex Traits: From Polygenic to Omnigenic. [PMID: 28622505](https://pubmed.ncbi.nlm.nih.gov/28622505/).
+- Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations. [PMID: 30104762](https://pubmed.ncbi.nlm.nih.gov/30104762/).
+- Estimation and mapping of the missing heritability of human phenotypes. [PMID: 41225014](https://pubmed.ncbi.nlm.nih.gov/41225014/).
 
 **Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
@@ -152,13 +152,15 @@ By the end of this course, students will be able to:
 **Location:** Mission Hall 1407
 
 **Guest Lecturer (3:00 PM - 4:00 PM):** Nadav Ahituv
-- Discussion of disease variants and therapeutic strategies
+- Dissecting gene regulatory elements
+- Regulatory elements as therapeutic targets
 
 **Course Wrap-up (4:00 PM - 5:00 PM):** Diego Calderon
 - Synthesis and key takeaways from the course
+- Showcase discussion
 
 **Reading:**
-- TBD
+- Implantation of engineered adipocytes suppresses tumor progression in cancer models. [PMID: 39905264](https://pubmed.ncbi.nlm.nih.gov/39905264/)
 
 **Slides:** [Coming soon]
 
