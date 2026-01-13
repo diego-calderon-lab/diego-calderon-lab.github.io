@@ -1,0 +1,4 @@
+# Talia Delambre
+## Rotation student (PSPG) Winter 2025
+
+I am a first-year Ph.D. student in the Pharmaceutical Sciences and Pharmacogenomics (PSPG) program at UCSF.  I received my B.S. in Biomedical Engineering and Master of Science in Engineering from UT Austin where I was involved in research studying the effects of the stem cell microenvironment on their differentiation into cardiac tissue. My master’s thesis focused specifically on the influence of cell sex and fatty acid supplementation on stem cell-derived cardiomyocyte metabolism. Broadly, I am interested in genomics and high throughput methods for drug discovery and development. Outside of lab, I enjoy running and hiking, baking, and staying up to date on new movies (Alamo Drafthouse enthusiast).

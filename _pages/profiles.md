@@ -19,6 +19,10 @@ profiles:
     content: lab_members/about_adriann-brodeth.md
     image_circular: false
   - align: right
+    image: taliadelambre.jpg
+    content: lab_members/about_talia-delambre.md
+    image_circular: false
+  - align: right
     image: chetanaditya.jpg
     content: lab_members/about_chetan-aditya.md
     image_circular: false
