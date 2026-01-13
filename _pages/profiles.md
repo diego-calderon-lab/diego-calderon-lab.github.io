@@ -19,7 +19,7 @@ profiles:
     content: lab_members/about_adriann-brodeth.md
     image_circular: false
   - align: right
-    image: taliadelambre.jpg
+    image: taliadelambre.jpeg
     content: lab_members/about_talia-delambre.md
     image_circular: false
   - align: right
