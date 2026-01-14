@@ -139,10 +139,7 @@ By the end of this course, students will be able to:
 - Reproductive technologies and genetic information
 - Personalized medicine: benefits and concerns
 
-**Reading:**
-- TBD 
-
-**Slides:** [Coming soon]
+**Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
 ---
 
