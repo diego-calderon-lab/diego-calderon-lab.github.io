@@ -159,7 +159,7 @@ By the end of this course, students will be able to:
 **Reading:**
 - Implantation of engineered adipocytes suppresses tumor progression in cancer models. [PMID: 39905264](https://pubmed.ncbi.nlm.nih.gov/39905264/)
 
-**Slides:** [Coming soon]
+**Slides:** Now available on [CLE page](https://courses.ucsf.edu/course/section.php?id=167153).
 
 ---
 
