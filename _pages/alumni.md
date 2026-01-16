@@ -43,4 +43,8 @@ profiles:
     image: Tetrad_Gao_Angela.jpg
     content: lab_members/about_angela_gao.md
     image_circular: false
+  - align: right
+    image: fantasywang.png
+    content: lab_members/about_fantasy-wang.md
+    image_circular: false
 ---
