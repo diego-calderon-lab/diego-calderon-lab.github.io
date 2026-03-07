@@ -1,0 +1,4 @@
+# Teerithveen Pasricha
+## Rotation student (BioE) Spring 2026
+
+I am a first-year Ph.D. student in the UC Berkeley-UCSF Joint Bioengineering program. I received my B.S. in Bioengineering and Biochemistry from Northeastern University. While in Boston, I worked under Dr. Hao Wu at Harvard Medical School studying structure-function relationships in the NLRP3 inflammasome during innate immune responses and later gained industry experience at Sigilon Therapeutics and Takeda Pharmaceuticals. After graduating, I joined Tevard Biosciences, where I developed in vitro screening strategies to identify suppressor tRNA sequences capable of bypassing premature termination codons.  My graduate research interests relate to gene therapy, with the goal of designing programmable systems to modulate gene expression profiles that correct genetic disorders. Outside of research, I enjoy dancing, weightlifting, and reading.

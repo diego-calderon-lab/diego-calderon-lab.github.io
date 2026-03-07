@@ -15,8 +15,8 @@ profiles:
     more_info: >
       <p>diego.calderon[at]ucsf.edu</p>
   - align: right
-    image: adriannbrodeth.jpg
-    content: lab_members/about_adriann-brodeth.md
+    image: teerithveenpasricha.jpeg
+    content: lab_members/about_teerithveen-pasricha.md
     image_circular: false
   - align: right
     image: taliadelambre.jpeg
@@ -41,10 +41,6 @@ profiles:
   - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
-    image_circular: false
-  - align: right
-    image: juliasaltz.jpg
-    content: lab_members/about_julia-saltz.md
     image_circular: false
   - align: right
     image: rashadreid.jpg
