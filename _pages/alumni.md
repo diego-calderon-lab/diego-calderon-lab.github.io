@@ -22,6 +22,18 @@ profiles:
     more_info: >
       <p><a href="https://www.linkedin.com/in/juliane-donahue-bombosch-2020/">LinkedIn</a><p>
   - align: right
+    image: taliadelambre.jpeg
+    content: lab_members/about_talia-delambre.md
+    image_circular: false
+  - align: right
+    image: poorvidua.jpg
+    content: lab_members/about_poorvi-dua.md
+    image_circular: false
+  - align: right
+    image: chetanaditya.jpg
+    content: lab_members/about_chetan-aditya.md
+    image_circular: false
+  - align: right
     image: carlosgomez.jpg
     content: lab_members/about_carlos-gomez.md
     image_circular: false

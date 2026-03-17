@@ -19,24 +19,12 @@ profiles:
     content: lab_members/about_teerithveen-pasricha.md
     image_circular: false
   - align: right
-    image: taliadelambre.jpeg
-    content: lab_members/about_talia-delambre.md
-    image_circular: false
-  - align: right
-    image: chetanaditya.jpg
-    content: lab_members/about_chetan-aditya.md
-    image_circular: false
-  - align: right
     image: kinaatkinyamaguchi.jpg
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
   - align: right
     image: madelinechertkow.jpg
     content: lab_members/about_madeline-chertkow.md
-    image_circular: false
-  - align: right
-    image: poorvidua.jpg
-    content: lab_members/about_poorvi-dua.md
     image_circular: false
   - align: right
     image: peterlu.jpg
