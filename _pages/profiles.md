@@ -15,10 +15,6 @@ profiles:
     more_info: >
       <p>diego.calderon[at]ucsf.edu</p>
   - align: right
-    image: teerithveenpasricha.jpeg
-    content: lab_members/about_teerithveen-pasricha.md
-    image_circular: false
-  - align: right
     image: kinaatkinyamaguchi.jpg
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
@@ -27,12 +23,20 @@ profiles:
     content: lab_members/about_madeline-chertkow.md
     image_circular: false
   - align: right
+    image: rashadreid.jpg
+    content: lab_members/about_rashad-reid.md
+    image_circular: false
+  - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
     image_circular: false
   - align: right
-    image: rashadreid.jpg
-    content: lab_members/about_rashad-reid.md
+    image: erinahern.jpeg
+    content: lab_members/about_erin-ahern.md
+    image_circular: false
+  - align: right
+    image: teerithveenpasricha.jpeg
+    content: lab_members/about_teerithveen-pasricha.md
     image_circular: false
   - align: right
     image: shonapark.jpeg

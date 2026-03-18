@@ -1,0 +1,4 @@
+# Erin Ahern
+## Rotation student (BioE) Spring 2026
+
+I am a first-year PhD student in the Joint Bioengineering Program at UCSF and UC Berkeley. I earned my B.A. in Biophysics from Columbia University in 2024. As an undergraduate researcher and postbaccalaureate fellow in the Glasgow Lab at Columbia, I worked on computational protein design projects, where I developed an interest in engineering binder proteins for therapeutic applications. In the Calderon Lab, I am excited to pursue a computational genomics project using machine learning to integrate MPRA and cell context data to predict enhancer activity of cis-regulatory elements. Outside of research, I enjoy running, hiking, and biking!
