@@ -35,6 +35,10 @@ profiles:
     content: lab_members/about_erin-ahern.md
     image_circular: false
   - align: right
+    image: umapaithankar.jpeg
+    content: lab_members/about_uma-paithankar.md
+    image_circular: false
+  - align: right
     image: teerithveenpasricha.jpeg
     content: lab_members/about_teerithveen-pasricha.md
     image_circular: false
