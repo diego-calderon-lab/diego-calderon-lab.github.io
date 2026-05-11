@@ -8,12 +8,16 @@ description: alumni lab members
 
 profiles:
   - align: right
-    image: adriannbrodeth.jpg
-    content: lab_members/about_adriann-brodeth.md
+    image: erinahern.jpeg
+    content: lab_members/about_erin-ahern.md
     image_circular: false
   - align: right
-    image: juliasaltz.jpg
-    content: lab_members/about_julia-saltz.md
+    image: teerithveenpasricha.jpeg
+    content: lab_members/about_teerithveen-pasricha.md
+    image_circular: false
+  - align: right
+    image: adriannbrodeth.jpg
+    content: lab_members/about_adriann-brodeth.md
     image_circular: false
   - align: right
     image: julianebombosch.jpeg

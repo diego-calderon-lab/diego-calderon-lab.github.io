@@ -1,5 +1,5 @@
 # Uma Paithankar
-## Rotation student (BioE) Spring 2026
+## PhD student (BioE)
 
 I am a PhD student in the UC Berkeley – UCSF Graduate Program in Bioengineering. I graduated from Washington University in St. Louis with my B.A. in Biology: Genomics and Computational Biology.
 
