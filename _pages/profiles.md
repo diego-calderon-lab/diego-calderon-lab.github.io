@@ -39,6 +39,14 @@ profiles:
     content: lab_members/about_peter-lu.md
     image_circular: false
   - align: right
+    image: diegocarranco.jpg
+    content: lab_members/about_diego-carranco.md
+    image_circular: false
+  - align: right
+    image: rohinmainali.jpg
+    content: lab_members/about_rohin-mainali.md
+    image_circular: false
+  - align: right
     image: shonapark.jpeg
     content: lab_members/about_shona-park.md
     image_circular: false

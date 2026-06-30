@@ -1,0 +1,4 @@
+# Diego Carranco
+## Summer Student (SRTP)
+
+I’m pursuing a bachelor's degree in Biochemistry and Molecular Biology at UC Santa Cruz. I am currently doing UCSF’s SRTP summer program in the Calderon Lab. I am originally from Mexico City, but me and my family decided to move to a small town in California called Petaluma about 6 years ago. As I pursue a research career at UCSC, I found the field of epigenetics intriguing and I enjoy learning about the biochemical and genetic processes driving cellular plasticity and adaptation. Outside of the lab, you will find me playing soccer or trying out a new sport, reading, coffee drinking and roasting, hiking and exploring new places.
