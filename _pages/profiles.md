@@ -35,6 +35,10 @@ profiles:
     content: lab_members/about_julia-saltz.md
     image_circular: false
   - align: right
+    image: yukokoike.jpg
+    content: lab_members/about_yuko-koike.md
+    image_circular: false
+  - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
     image_circular: false
