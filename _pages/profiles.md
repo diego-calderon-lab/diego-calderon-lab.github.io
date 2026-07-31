@@ -19,6 +19,9 @@ profiles:
     content: lab_members/about_kina-atkin-yamaguchi.md
     image_circular: false
   - align: right
+    image: trevorfox.jpg
+    content: lab_members/about_trevor-fox.md
+  - align: right
     image: madelinechertkow.jpg
     content: lab_members/about_madeline-chertkow.md
     image_circular: false

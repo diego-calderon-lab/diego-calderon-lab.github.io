@@ -7,6 +7,10 @@ description: alumni lab members
 # nav_order: 2
 
 profiles:
+  # - align: right
+  #   image: kinaatkinyamaguchi.jpg
+  #   content: lab_members/about_kina-atkin-yamaguchi.md
+  #   image_circular: false
   - align: right
     image: erinahern.jpeg
     content: lab_members/about_erin-ahern.md
