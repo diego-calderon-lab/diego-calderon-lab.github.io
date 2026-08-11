@@ -7,10 +7,18 @@ description: alumni lab members
 # nav_order: 2
 
 profiles:
-  # - align: right
-  #   image: kinaatkinyamaguchi.jpg
-  #   content: lab_members/about_kina-atkin-yamaguchi.md
-  #   image_circular: false
+  - align: right
+    image: kinaatkinyamaguchi.jpg
+    content: lab_members/about_kina-atkin-yamaguchi.md
+    image_circular: false
+  - align: right
+    image: diegocarranco.jpg
+    content: lab_members/about_diego-carranco.md
+    image_circular: false
+  - align: right
+    image: rohinmainali.jpg
+    content: lab_members/about_rohin-mainali.md
+    image_circular: false
   - align: right
     image: erinahern.jpeg
     content: lab_members/about_erin-ahern.md

@@ -15,10 +15,6 @@ profiles:
     more_info: >
       <p>diego.calderon[at]ucsf.edu</p>
   - align: right
-    image: kinaatkinyamaguchi.jpg
-    content: lab_members/about_kina-atkin-yamaguchi.md
-    image_circular: false
-  - align: right
     image: trevorfox.jpg
     content: lab_members/about_trevor-fox.md
   - align: right
@@ -44,14 +40,6 @@ profiles:
   - align: right
     image: peterlu.jpg
     content: lab_members/about_peter-lu.md
-    image_circular: false
-  - align: right
-    image: diegocarranco.jpg
-    content: lab_members/about_diego-carranco.md
-    image_circular: false
-  - align: right
-    image: rohinmainali.jpg
-    content: lab_members/about_rohin-mainali.md
     image_circular: false
   - align: right
     image: shonapark.jpeg
